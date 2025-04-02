@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": [
+    "code/hello",
+    "code/simple-api/src/main/java/com/edipof/simple_api"
+  ]
+}
